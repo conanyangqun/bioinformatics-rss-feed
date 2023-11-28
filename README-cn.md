@@ -45,4 +45,4 @@ blog|月光博客|https://www.williamlong.info/rss.xml|N|官方支持
 
 ### 推特（X）
 
-推特本身不支持RSS，但是借助nitter这个项目可以曲折实现，但是需要增强上网。关注的人员见[](parts/twitters.utf-8.txt)。
+推特本身不支持RSS，但是借助nitter这个项目可以曲折实现，但是需要增强上网。关注的人员见[此](parts/twitters.utf-8.txt)。
